@@ -3,7 +3,7 @@ Sorts data using basic sorting algorithms
 
 ## Features
 
-- A functional GUI (through pyGame and pyGame_GUI)
+- A functional GUI (through pygame and pygame_GUI)
 - Allows for custom data input for sorting.
 - The following algorithms have been implemented:
     - Bubble Sort
