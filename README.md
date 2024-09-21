@@ -31,6 +31,10 @@ Run the main.py script
   python main.py
 ```
 
+## Controls
+Enter/Return key - Starts the sorting after data input
+Right arrow key - Advances the sorting process.
+
 
 ## Contributing
 
