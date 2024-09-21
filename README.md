@@ -17,7 +17,7 @@ Clone the repository
 
 ```bash
   git clone https://github.com/stackneo/pySorter
-  cd deltafin
+  cd pySorter
 ```
 
 Install requirements.txt
